@@ -1,0 +1,48 @@
+.navbar-background{
+    background-color: #1B0D4B;
+}
+.hammenu {
+    background:white;
+    border-radius: 100px;
+}
+
+.sb-avatar__image{
+    border-radius: 50px;
+    
+}
+
+.name-text {
+    font-weight: 500;
+}
+
+.beta-logo{
+    background-color: #B2B1B4;
+    font-size: x-small;
+    border-radius: 5px;
+    font-weight: 600;
+    padding: 1px 2px;
+    margin: 4px;
+    position: fixed;
+    top: 8px; 
+}
+.mt_upgrade-badge:hover {
+    opacity: 0.8;
+}
+
+.mt_upgrade-badge{
+    background-color: #0EBAFF;
+    border-radius: 15px;
+    font-size: 15px;
+    padding: 4px 6px;
+    font-weight: 600;
+    letter-spacing: 0.1px;
+    margin-right: -3px;
+}
+
+.navbar-position {
+    margin-left: auto;
+}
+
+.name-text:hover {
+    opacity: 0.8;
+}

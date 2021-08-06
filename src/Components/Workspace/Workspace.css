@@ -1,0 +1,38 @@
+
+.text-right {
+    text-align: right;
+}
+
+.workspace-text {
+    font-size: 28px;
+    font-weight: 700;
+    letter-spacing: 0.1px;
+    color: #1B0D4B;
+
+}
+
+.btn-hover:hover{
+background-color: black !important;
+}
+
+.icons {
+    position: absolute;
+    width: 100%;
+    padding: 4px 4px;
+    text-align: center;
+    
+}
+
+.svg_icons {
+    font-size: 30px !important;
+    
+}
+
+.icon{
+    margin-right: -24px;
+}
+
+.first-step {
+    background-color: #1b0c4b !important;
+}
+

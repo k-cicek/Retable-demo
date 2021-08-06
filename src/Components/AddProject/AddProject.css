@@ -1,0 +1,108 @@
+.text-right {
+    text-align: right;
+}
+
+.workspace-text {
+    font-size: 28px;
+    font-weight: 850;
+    letter-spacing: 0.1px;
+
+}
+
+.btn-hover:hover {
+    background-color: black !important;
+}
+
+
+.workspace-size {
+    white-space: nowrap;
+    color: #776aa2;
+}
+
+.workspace-size:hover {
+    border-bottom: 2px solid #776aa2;
+}
+
+
+.first-step {
+    background-color: #1b0c4b !important;
+}
+
+.project-icon-container {
+    background-color: rgb(95, 39, 205);
+}
+
+.Icon-option {
+    color: white;
+    padding: 10px;
+}
+
+.Icon-option:hover {
+
+    transform: translate(-2px, -4px);
+    -webkit-transform: translate(-2px, -4px);
+
+}
+
+.person-icon {
+    padding-right: 25px !important;
+    margin-right: -25px !important;
+    
+}
+
+.keyboard-icons {
+    position: absolute;
+    width: 100%;
+    padding-left: 150px;
+
+}
+
+.card-body {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.icon{
+    position: fixed;
+    font-size: 20px !important;
+    margin-top: 2px;
+    
+}
+
+
+@media only screen and (max-width: 1380px) {
+    .keyboard-icons {
+        position: absolute;
+        width: 100%;
+        padding-left: 100px;
+    }
+
+}
+
+@media only screen and (max-width: 1200px) {
+    .keyboard-icons {
+        position: absolute;
+        width: 100%;
+        padding-left: 60px;
+    }
+
+}
+
+@media only screen and (max-width: 845px) {
+    .keyboard-icons {
+        position: absolute;
+        width: 100%;
+        padding-left: 50px;
+    }
+
+}
+
+@media only screen and (max-width: 760px) {
+    .keyboard-icons {
+        position: absolute;
+        width: 100%;
+        padding-left: 65px;
+    }
+
+}
+

@@ -1,0 +1,44 @@
+.dashboard-background {
+    background-color: #17D2D2;
+
+}
+
+.table-responsive {
+    width: auto;
+    
+
+}
+
+.Table-logo {
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.Apple-option>.MuiSvgIcon-root {
+    color: white;
+    margin-top: -12px;
+}
+
+.Visibilty-option {
+    font-family: "Poppins", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: 15px;
+}
+
+.Visibilty-option>.MuiSvgIcon-root {
+    height: 20px;
+}
+
+.table-name {
+    white-space: nowrap;
+    font-family: "Poppins", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    ;
+    font-size: 15px;
+    text-align: center;
+    max-width: 200px;
+
+}
+
+.table-scroll::-webkit-scrollbar {
+    width: auto;
+
+}
